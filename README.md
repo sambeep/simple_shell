@@ -1,4 +1,1 @@
 simple shell
-:w
-:q
-
