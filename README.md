@@ -1,0 +1,4 @@
+simple shell
+:w
+:q
+
